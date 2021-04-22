@@ -1222,18 +1222,6 @@ section.lazy-placeholder:after {
     font-size: 4.25rem;
   }
 }
-.cid-rOYIEdtCsQ {
-  background: #ffffff;
-}
-.cid-rOYIEdtCsQ .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rOYIEdtCsQ .video-block {
-    width: 100% !important;
-  }
-}
 .cid-rP2EFcZoIL {
   padding-top: 0px;
   padding-bottom: 0px;

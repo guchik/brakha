@@ -78,7 +78,7 @@
       "text": "En continuant, vous acceptez nos <a href='terms.html'> Conditions d'utilisation </a> et la <a href='policy.html'> Politique de confidentialité </a>."
     },
     "uniqCompNum": 26,
-    "versionPublish": "5.3.5",
+    "versionPublish": "5.3.2",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "": "on",

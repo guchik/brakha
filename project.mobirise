@@ -83,7 +83,35 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "": "on",
     "imageResize": true,
-    "google-analytics": " "
+    "google-analytics": " ",
+    "chatbutton": {
+      "phone": "+972-0544855995",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "Bonjour!👋\nTapez un message ici. Il ira directement sur votre téléphone!🔥\n\nAvec Braha",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": "0",
+      "headerColor": "#39847a",
+      "headerTitle": "👋 envoyez moi un WhatsApp!",
+      "placeholder": "Type here",
+      "zIndex": 10,
+      "enabled": true
+    },
+    "PWA": {
+      "enabled": true,
+      "name": "",
+      "icon": "@PROJECT_PATH@/assets/images/hands-296850-960-720-512x512.png",
+      "themeColor": "#149dcc"
+    },
+    "mbrsiteDomain": "qwkntkbmnp",
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "pwa-switcher": true,
+    "witsec-white-label": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
